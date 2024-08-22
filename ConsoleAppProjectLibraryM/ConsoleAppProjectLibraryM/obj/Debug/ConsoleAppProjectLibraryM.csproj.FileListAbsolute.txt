@@ -1,0 +1,10 @@
+C:\Users\samsu\source\repos\ConsoleAppProjectLibraryM\ConsoleAppProjectLibraryM\bin\Debug\ConsoleAppProjectLibraryM.exe.config
+C:\Users\samsu\source\repos\ConsoleAppProjectLibraryM\ConsoleAppProjectLibraryM\bin\Debug\ConsoleAppProjectLibraryM.exe
+C:\Users\samsu\source\repos\ConsoleAppProjectLibraryM\ConsoleAppProjectLibraryM\bin\Debug\ConsoleAppProjectLibraryM.pdb
+C:\Users\samsu\source\repos\ConsoleAppProjectLibraryM\ConsoleAppProjectLibraryM\bin\Debug\ClassLibrarySqlConnection.dll
+C:\Users\samsu\source\repos\ConsoleAppProjectLibraryM\ConsoleAppProjectLibraryM\bin\Debug\ClassLibrarySqlConnection.pdb
+C:\Users\samsu\source\repos\ConsoleAppProjectLibraryM\ConsoleAppProjectLibraryM\obj\Debug\ConsoleAppProjectLibraryM.csproj.AssemblyReference.cache
+C:\Users\samsu\source\repos\ConsoleAppProjectLibraryM\ConsoleAppProjectLibraryM\obj\Debug\ConsoleAppProjectLibraryM.csproj.CoreCompileInputs.cache
+C:\Users\samsu\source\repos\ConsoleAppProjectLibraryM\ConsoleAppProjectLibraryM\obj\Debug\ConsoleA.B8D5DC5C.Up2Date
+C:\Users\samsu\source\repos\ConsoleAppProjectLibraryM\ConsoleAppProjectLibraryM\obj\Debug\ConsoleAppProjectLibraryM.exe
+C:\Users\samsu\source\repos\ConsoleAppProjectLibraryM\ConsoleAppProjectLibraryM\obj\Debug\ConsoleAppProjectLibraryM.pdb

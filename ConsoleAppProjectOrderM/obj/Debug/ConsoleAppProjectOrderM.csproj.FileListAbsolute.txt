@@ -1,0 +1,10 @@
+C:\Users\samsu\source\repos\ConsoleAppProjectOrderM\ConsoleAppProjectOrderM\obj\Debug\ConsoleAppProjectOrderM.csproj.AssemblyReference.cache
+C:\Users\samsu\source\repos\ConsoleAppProjectOrderM\ConsoleAppProjectOrderM\obj\Debug\ConsoleAppProjectOrderM.csproj.CoreCompileInputs.cache
+C:\Users\samsu\source\repos\ConsoleAppProjectOrderM\ConsoleAppProjectOrderM\bin\Debug\ConsoleAppProjectOrderM.exe.config
+C:\Users\samsu\source\repos\ConsoleAppProjectOrderM\ConsoleAppProjectOrderM\bin\Debug\ConsoleAppProjectOrderM.exe
+C:\Users\samsu\source\repos\ConsoleAppProjectOrderM\ConsoleAppProjectOrderM\bin\Debug\ConsoleAppProjectOrderM.pdb
+C:\Users\samsu\source\repos\ConsoleAppProjectOrderM\ConsoleAppProjectOrderM\obj\Debug\ConsoleAppProjectOrderM.exe
+C:\Users\samsu\source\repos\ConsoleAppProjectOrderM\ConsoleAppProjectOrderM\obj\Debug\ConsoleAppProjectOrderM.pdb
+C:\Users\samsu\source\repos\ConsoleAppProjectOrderM\ConsoleAppProjectOrderM\bin\Debug\ClassLibrarySqlConnection.dll
+C:\Users\samsu\source\repos\ConsoleAppProjectOrderM\ConsoleAppProjectOrderM\bin\Debug\ClassLibrarySqlConnection.pdb
+C:\Users\samsu\source\repos\ConsoleAppProjectOrderM\ConsoleAppProjectOrderM\obj\Debug\ConsoleA.C94612E7.Up2Date
